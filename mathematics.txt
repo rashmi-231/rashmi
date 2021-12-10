@@ -4,6 +4,8 @@ welcome to my maths class
 addition
 multiplication
 division
+subtraction
+lcm
 
 
 
